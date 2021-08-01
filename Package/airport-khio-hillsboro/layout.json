@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/airport-khio-hillsboro/Thumbnail.jpg",
+      "size": 105846,
+      "date": 132633405765040044
+    },
+    {
+      "path": "scenery/KHIO.bgl",
+      "size": 222139,
+      "date": 132640501285157539
+    },
+    {
+      "path": "scenery/test.bgl",
+      "size": 2169,
+      "date": 132640501285334133
+    }
+  ]
+}

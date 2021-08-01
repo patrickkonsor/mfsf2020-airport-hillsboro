@@ -1,0 +1,31 @@
+<AssetPackage Name="airport-khio-hillsboro" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Portland-Hillsboro Airport</Title>
+		<Manufacturer/>
+		<Creator>Patrick Konsor</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\airport-khio-hillsboro\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\airport-khio-hillsboro\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\airport-khio-hillsboro\sceneries\</AssetDir>
+			<OutputDir>scenery\\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

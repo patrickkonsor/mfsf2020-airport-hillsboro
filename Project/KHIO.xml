@@ -1,0 +1,8 @@
+<Project Version="2" Name="KHIO" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\airport-khio-hillsboro.xml</Package>
+	</Packages>
+</Project>
+
