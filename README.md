@@ -6,3 +6,5 @@ A mostly-correct update to KHIO Portland-Hillsboro airport for MSFS 2020. Downlo
 - Adds all missing taxiways and correct naming
 - Adds realistic aircraft parking locations
 - Probably a bunch of other fixes
+
+![KHIO Portland-Hillsboro Airport](https://i.imgur.com/ktVaQmb.jpg)
